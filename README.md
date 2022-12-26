@@ -1,4 +1,7 @@
-# Data Structureand Algorithms
+# Data Structure and Algorithms
 
-All the sorting, searching algorithms are implemented for better understanding.<br />
-Also have the basic data structure like stack, queue, linked list.
+Open-source Repository containing implementation of all Data Structures and algorithms concepts for learning purpose.<br />
+
+## How to run? 
+
+All data structure and algorithms can be used by running the main.java file which has menu driven CLI code.
